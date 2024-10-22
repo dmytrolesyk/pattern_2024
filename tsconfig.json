@@ -11,6 +11,6 @@
     "baseUrl": ".",
     "preserveWatchOutput": true
   },
-  "include": ["*.d.ts", "*.js"],
+  "include": ["*.d.ts", "*.js", "unit-1/1-soc-opt.fp.js", "unit-1/1-soc-opt.js", "unit-1/1-soc-opt.oop.js", "unit-1/1-soc-opt.proc.js"],
   "exclude": ["node_modules"]
 }
